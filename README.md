@@ -32,8 +32,9 @@ I'm a **junior studying Computer Science at Columbia Engineering**.
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-## 📫 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/keiradabbagh/
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keiradabbagh/)
 
 ## 📊 My Stats
 _(Coming soon — currently setting this up!)_
