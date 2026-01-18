@@ -1,7 +1,7 @@
 # 👋 Hi,I'm Keira Dabbagh
 
 ## About Me
-I'm a **junior studying CS at Columbia Engineering**.
+I'm a junior studying CS at Columbia Engineering.
 
 - 🤖 I have strong interests in AI, Machine Learning, Natural Language Processing, and Computer Vision.
 - 🎨 I’m passionate about the intersection of creativity and problem-solving, and I enjoy exploring spaces like fashion × tech.
