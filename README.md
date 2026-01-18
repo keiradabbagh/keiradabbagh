@@ -36,8 +36,14 @@ I'm a **junior studying Computer Science at Columbia Engineering**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keiradabbagh/)
 
-## 📊 My Stats
-_(Coming soon — currently setting this up!)_
+## 📊 GitHub Stats
 
-## 💡 Quote I Like
-> “First, solve the problem. Then, write the code.” — John Johnson
+![Keira's GitHub stats](https://github-readme-stats.vercel.app/api?username=keiradabbagh&show_icons=true&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keiradabbagh&layout=compact&theme=dark&hide_border=true)
+
+
+## ✍️ Random Dev Quote
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
