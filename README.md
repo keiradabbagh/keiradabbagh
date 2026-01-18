@@ -1,13 +1,13 @@
-# 👋Hi,I'm Keira Dabbagh
+# 👋 Hi,I'm Keira Dabbagh
 
 ## About Me
 I'm a **junior studying Computer Science at Columbia Engineering**.
 
-- I have strong interests in **AI, Machine Learning, Natural Language Processing, and Computer Vision**.
-- I’m passionate about the **intersection of creativity and problem-solving**, and I enjoy exploring spaces like **fashion × technology**.
-- I’m especially interested in work where **technical rigor meets design, product intuition, and user experience**.
-- Beyond pure engineering, I enjoy thinking about the **product, strategy, and go-to-market side of building technology** — what to build, why it matters, and how it reaches users.
-- I like collaborating on **ambitious, thoughtful projects** and building things that feel both technically solid and creatively meaningful.
+- 🤖 I have strong interests in AI, Machine Learning, Natural Language Processing, and Computer Vision.
+- 🎨 I’m passionate about the intersection of creativity and problem-solving, and I enjoy exploring spaces like fashion × tech.
+- 🧠 I’m especially interested in building products that are technically strong while still being well-designed and intuitive to use.
+- 🚀 Beyond pure engineering, I enjoy thinking about the product, strategy, and go-to-market side of building technology.
+- 🤝 I'm looking to collaborate on cool ML projects!
 
 ## 🛠 Tech Stack
 **Languages:**  
