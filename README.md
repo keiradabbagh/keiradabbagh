@@ -38,9 +38,9 @@ I'm a junior studying CS at Columbia Engineering.
 
 ## 📊 GitHub Stats
 
-![Keira's GitHub stats](https://github-readme-stats.vercel.app/api?username=keiradabbagh&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keiradabbagh&show_icons=true&theme=dark&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keiradabbagh&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keiradabbagh&layout=compact&theme=dark&cache_seconds=1800)
 
 
 ## ✍️ Random Dev Quote
