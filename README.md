@@ -36,12 +36,6 @@ I'm a junior studying CS at Columbia Engineering.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keiradabbagh/)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keiradabbagh&show_icons=true&theme=dark&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keiradabbagh&layout=compact&theme=dark&cache_seconds=1800)
-
 
 ## ✍️ Random Dev Quote
 
